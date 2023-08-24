@@ -13,3 +13,6 @@
 - 😄 Pronouns: ...slayer
 - ⚡ Fun fact: ...hmmmmmmm
 
+
+TODO:
+1. Getting started with github open-source, Link: https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7
