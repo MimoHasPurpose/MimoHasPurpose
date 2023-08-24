@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋😀
+MOTTO: BE THE BEST🦁🦁
 
 
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...hmmmmmmm
 
 
-TODO:
+TODO:🧐🧐
 1. Getting started with github open-source, Link: https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7
 2. Add icons to github profile
 3. Update the portfolio website
