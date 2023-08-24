@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Sanj-bot/Sanj-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on ...Processing.js Framework
+- 🌱 I’m currently learning ...Version control system
+- 👯 I’m looking to collaborate on ... Machine learning and Deep learning 
+- 🤔 I’m looking for help with ... GETTING  A JOB
+- 💬 Ask me about ... Linux, Git, Github, Core Computer Science Subjects
+- 📫 How to reach me: ...DONT
+- 😄 Pronouns: ...slayer
+- ⚡ Fun fact: ...hmmmmmmm
+
