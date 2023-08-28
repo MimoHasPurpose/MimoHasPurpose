@@ -20,3 +20,4 @@ TODO:🧐🧐
 3. Update the portfolio website
 4. Read and make very short notes of the github book(Interest: Graphs in Github)(throwing a project through terminal into the github account
 5. Read the git book and complete the git course
+6. Javascript Game
