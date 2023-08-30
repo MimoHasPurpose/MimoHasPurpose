@@ -15,9 +15,10 @@ MOTTO: BE THE BEST🦁🦁
 
 
 TODO:🧐🧐
+* Setup visual studio or atom for web development
+* setup visual studio in Ubuntu PC
 1. Getting started with github open-source, Link: https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7
 2. Add icons to github profile
 3. Update the portfolio website
-4. Read and make very short notes of the github book(Interest: Graphs in Github)(throwing a project through terminal into the github account
-5. Read the git book and complete the git course
-6. Javascript Game
+4. Read the git book and complete the git course
+5. Javascript Game
