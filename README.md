@@ -1,6 +1,8 @@
 ### Hi there 👋😀
-MOTTO: BE THE BEST🦁🦁
-<img src="https://drive.google.com/file/d/1k3XPQUDV3_3_bgZWPdMw1BjSvZePjMPO/view?usp=sharing" width="500" height="500">
+
+MOTTO:Keep trying 
+---
+<img src="https://media.tenor.com/BP70qe8X0J8AAAAC/crycat-crying-cat.gif" width="500" height="500">
 
 
 ---
@@ -17,6 +19,7 @@ MOTTO: BE THE BEST🦁🦁
 - ⌨ [Code chef ID](https://www.codechef.com/users/sanjaygurjar74)
 
 ---
+
 TODO:🧐🧐
 * Setup visual studio or atom for web development
 * setup visual studio in Ubuntu PC
