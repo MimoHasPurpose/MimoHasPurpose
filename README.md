@@ -1,6 +1,6 @@
 ### Hi there 👋😀
 
-MOTTO:Keep trying 
+MOTTO:Keep trying , keep 😂
 ---
 <img src="https://media.tenor.com/BP70qe8X0J8AAAAC/crycat-crying-cat.gif" width="500" height="500">
 
