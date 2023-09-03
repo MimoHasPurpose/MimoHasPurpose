@@ -21,8 +21,9 @@ MOTTO:Keep trying , keep 😂
 ---
 
 TODO:🧐🧐
-* Setup visual studio or atom for web development
-* setup visual studio in Ubuntu PC
+*Work on a larger project in cpp, js and PHP(WEB DEV)
+*UPload code of DATA SCIENCE IN R on a new Repo
+*Start Deeplearning and Computer Vision and complete it
 1. Getting started with github open-source, Link: https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7
 2. Add icons to github profile
 3. Update the portfolio website
