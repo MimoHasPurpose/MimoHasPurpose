@@ -19,8 +19,7 @@ MOTTO:Keep trying , keep 😂
 - ⌨ [Code chef ID](https://www.codechef.com/users/sanjaygurjar74)
 
 ---
-
-TODO:🧐🧐
+##Task
 -Work on a larger project in cpp, js and PHP(WEB DEV)
 -UPload code of DATA SCIENCE IN R on a new Repo
 -Start Deeplearning and Computer Vision and complete it
