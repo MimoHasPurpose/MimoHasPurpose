@@ -23,7 +23,7 @@ MOTTO:Keep trying , keep 😂
 - Work on a larger project in cpp, js and PHP(WEB DEV)
 - UPload code of DATA SCIENCE IN R on a new Repo
 - Start Deeplearning and Computer Vision and complete it
-1. Getting started with github open-source, Link: https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7
+1. Complete 2 advanced github videos
 2. Add icons to github profile
 3. Update the portfolio website
 4. Read the git book and complete the git course
