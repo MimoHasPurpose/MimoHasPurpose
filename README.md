@@ -20,10 +20,7 @@ MOTTO:Keep trying , keep 😂
 
 ---
 ## Task
-- Work on a larger project in cpp, js and PHP(WEB DEV)
-- UPload code of DATA SCIENCE IN R on a new Repo
 - Start Deeplearning and Computer Vision and complete it
-1. Complete 2 advanced github videos
 2. Add icons to github profile
 3. Update the portfolio website
 5. Javascript Game
