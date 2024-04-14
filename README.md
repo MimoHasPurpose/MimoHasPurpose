@@ -16,14 +16,7 @@ MOTTO:Keep trying , keep 😂
 - 📫 How to reach me: ...DONT
 - 😄 Pronouns: ...slayer, ~~Stoic~~
 - ⚡ Fun fact: ...hmmmmmmm
-- ⌨ [Code chef ID](https://www.codechef.com/users/sanjaygurjar74)
-
----
-## Task
-- Start Deeplearning and Computer Vision and complete it
-2. Add icons to github profile
-3. Update the portfolio website
-5. Javascript Game
+- ⌨ [Code chef ID](https://www.codechef.com/users/sanjaygurjar741
 
 
 ---
