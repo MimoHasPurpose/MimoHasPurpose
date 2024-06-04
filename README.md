@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
-<h3 align="center">Love to work on Machine learning models.</h3>
+<h3 align="center">Love to work on ML Models, Deep learning Models, and enjoy readin Huggingface.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
 
