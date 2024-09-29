@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
-<h3 align="center">Love to work on ML Models, Deep learning Models, and enjoy readin Huggingface.</h3>
+<h3 align="center">Love to work on ML Models,Deep L Models, hacking with my ubuntu, read papers on weekends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Linux, DSA, Games, Movies.**
 
-- 📫 How to reach me **dontt**
+- 📫 How to reach me **sanjaygurjar741@gmail.com**
 
 - 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b)
 
