@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanj-bot](https://github.com/Sanj-bot)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
 
 - 💬 Ask me about **Linux, DSA, Games, Movies.**
 
