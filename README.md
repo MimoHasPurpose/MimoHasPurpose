@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Flask Blog app](https://github.com/Sanj-bot/JourneyIntoTheWorldOfPython/tree/main/Frameworks/flask_blog)
+- 🔭 I’m currently working on [Projects In Java](https://github.com/Sanj-bot/JavaProjects)
 
 - 🌱 I’m currently learning **Flask, Machine Learning, Generative AI**
 
@@ -15,17 +15,15 @@
 
 - 🤝 I’m looking for help with [Competitive coding](https://github.com/Sanj-bot/100dayLeetCode)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanj-bot](https://github.com/Sanj-bot)
 
 - 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
 
-- 💬 Ask me about **Linux, DSA, Games, Movies.**
 
 - 📫 How to reach me **sanjaygurjar741@gmail.com**
 
 - 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b)
 
-- ⚡ Fun fact **Life is a fun fact.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
