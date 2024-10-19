@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sanjaygurjar741@gmail.com**
 
-- 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b)
+- 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://drive.google.com/file/d/1c6O2C9z02c7a-R6daZOLsjpsMFijnke-/view?usp=drive_link)
 
 
 
