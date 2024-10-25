@@ -7,14 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Projects In Java](https://github.com/Sanj-bot/JavaProjects)
+- 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/NumpyFrameworkInJava)
 
-- 🌱 I’m currently learning **Flask, Machine Learning, Generative AI**
+- 🌱 I’m currently learning **Web Development, ML,D3.js, Generative AI**
 
-- 👯 I’m looking to collaborate on [Machine learning](https://github.com/Sanj-bot/100DaysOfMachineLearning)
-
-- 🤝 I’m looking for help with [Competitive coding](https://github.com/Sanj-bot/100dayLeetCode)
-
+- 👯 I’m looking to collaborate on [My open-source project](https://github.com/Sanj-bot/NumpyFrameworkInJava)
 
 - 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
 
@@ -22,7 +19,6 @@
 - 📫 How to reach me **sanjaygurjar741@gmail.com**
 
 - 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0)
-
 
 
 <h3 align="left">Connect with me:</h3>
