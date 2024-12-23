@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/NumpyFrameworkInJava)
+- 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/JavaProjects)
 
 - 🌱 I’m currently learning **Web Development, ML,D3.js, Generative AI**
 
-- 👯 I’m looking to collaborate on [My open-source project](https://github.com/Sanj-bot/NumpyFrameworkInJava)
+- 👯 I’m looking to collaborate on [My open-source project](https://github.com/Sanj-bot/JavaProjects)
 
 - 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
 
