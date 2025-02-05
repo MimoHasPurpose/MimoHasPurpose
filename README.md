@@ -2,10 +2,26 @@
 <h3 align="center">Love to work on ML Models,Deep L Models, hacking with my ubuntu, read papers on weekends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
+<h3 align="center"><ins>My top 4 projects:🤓</ins></h3>
+
+1. Web Dev with react [👆](https://github.com/Sanj-bot/Web-Dev-React-Continued)<br>
+2. Coding in CV [👆](https://github.com/Sanj-bot/codingINCV)<br>
+3. NLP [👆](https://github.com/Sanj-bot/NaturalLangaugeProcessing-Internshala)<br>
+4. Pytorch [👆](https://github.com/Sanj-bot/pytorch)
+
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanj-bot" alt="sanj-bot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
+
 
 - 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/JavaProjects)
 
@@ -31,6 +47,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanj-bot&show_icons=true&locale=en&layout=compact" alt="sanj-bot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanj-bot&show_icons=true&locale=en" alt="sanj-bot" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanj-bot&" alt="sanj-bot" /></p>
