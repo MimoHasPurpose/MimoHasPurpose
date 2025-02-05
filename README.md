@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
-<h3 align="center">Love to work on ML Models,Deep L Models, hacking with my ubuntu, read papers on weekends.</h3>
-
+<h1 align="center">Hi 👋, I'm Sanjay </h1>
+<h3 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
 </picture>
-
-
-
+<h4 align="center"> did u like the snake anime?</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
@@ -19,8 +16,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/JavaProjects)
-
-- 🌱 I’m currently learning **Web Development, ML,D3.js, Generative AI**
 
 - 👯 I’m looking to collaborate on [My open-source project](https://github.com/Sanj-bot/JavaProjects)
 
