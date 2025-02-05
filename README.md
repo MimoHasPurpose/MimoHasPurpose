@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0)
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s" height="30" width="40" /></a>
