@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay </h1>
-<h3 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h3>
+<h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake-dark.svg" />
