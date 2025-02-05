@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
 <h3 align="center">Love to work on ML Models,Deep L Models, hacking with my ubuntu, read papers on weekends.</h3>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
+</picture>
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanj-bot" alt="sanj-bot" /></a> </p>
