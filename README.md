@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay </h1>
+<h1 align="center">Hi 👋, I'm Sanjay <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p></h1>
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
 
 <picture>
@@ -9,7 +9,7 @@
 <h4 align="center"> did u like the snake anime?</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
+
 <h3 align="center"><ins>My top 4 projects:🤓</ins></h3>
 
 1. Web Dev with react [👆](https://github.com/Sanj-bot/Web-Dev-React-Continued)<br>
