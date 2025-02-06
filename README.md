@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
-<h3 align="center">Love to work on ML Models,Deep L Models, hacking with my ubuntu, read papers on weekends.</h3>
+<h1 align="center">Hi 👋, I'm Sanjay </h1>
+<h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sanj-bot/Sanj-bot/output/github-snake.svg" />
+</picture>
+<h4 align="center"> did u like the snake anime?</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sanj-bot" /> </p>
 <h3 align="center"><ins>My top 4 projects:🤓</ins></h3>
@@ -25,8 +33,6 @@
 
 - 🔭 I’m currently working on [Writing Numpy in java](https://github.com/Sanj-bot/JavaProjects)
 
-- 🌱 I’m currently learning **Web Development, ML,D3.js, Generative AI**
-
 - 👯 I’m looking to collaborate on [My open-source project](https://github.com/Sanj-bot/JavaProjects)
 
 - 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
@@ -36,7 +42,7 @@
 
 - 📄 Know about my experiences [https://www.resume-now.com/build-resume/final-resume?docid=08585982-d9ec-4702-aa20-54a6cd6c951b](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0)
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s" height="30" width="40" /></a>
