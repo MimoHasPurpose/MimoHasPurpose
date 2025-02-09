@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **sanjaygurjar741@gmail.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0)
+- 📄 Know about my experiences [<bold>RESUME</bold>](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0)
 
 <br>
 <h3 align="left">Connect with me:</h3>
