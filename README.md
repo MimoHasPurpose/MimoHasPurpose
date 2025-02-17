@@ -53,6 +53,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sanj-bot" alt="GitHub Streak" /></a>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanj-bot&show_icons=true&locale=en&layout=compact" alt="sanj-bot" /></p>
 
 
