@@ -54,5 +54,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanj-bot&show_icons=true&locale=en&layout=compact" alt="sanj-bot" /></p>
 
 
-
-<p>![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanj-bot&include_all_commits=true&theme=aura)](https://github.com/Sanj-bot/github-readme-stats)</p>
