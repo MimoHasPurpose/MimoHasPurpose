@@ -55,4 +55,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanj-bot&" alt="sanj-bot" /></p>
+<p>[![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanj-bot&include_all_commits=true&theme=aura)](https://github.com/Sanj-bot/github-readme-stats)</p>
