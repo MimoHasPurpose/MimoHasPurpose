@@ -4,11 +4,11 @@
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
 
 <h5>
-<blockquote>
+**__
   following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold>
-  
 
-</blockquote>
+__**
+
 <italic><underline>quote that drives me:༼ つ ◕_◕ ༽つ</underline></italic>
 
 </h5>
