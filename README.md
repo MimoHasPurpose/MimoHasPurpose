@@ -3,7 +3,7 @@
 
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
 
-<h5 align="center" style="italicc">
+<h5 align="center" style="italic">
 
   following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold>
 
@@ -46,9 +46,9 @@
 
 - 🔭 I’m currently working on [Writing Numpy in java](https://github.com/MimoHasPurpose/JavaProjects)
 
-- 👯 I’m looking to collaborate on [My open-source project](https://github.com/MimoHasPurpose/JavaProjects)
+- 👯 I’m looking to collaborate on [My open-source project](https://github.com/MimoHasPurpose?tab=repositories)
 
-- 📝 I regularly write articles on [blogger](https://lryicsoflife.blogspot.com/)
+- 📝 I regularly write articles on [blog]([https://github.com/MimoHasPurpose/notes-from-the-underground)
 
 
 - 📫 How to reach me **sanjaygurjar741@gmail.com**
