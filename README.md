@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, I'm Sanjay <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
+
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
-<quote>"following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following."-
-General partner of Andreessen Horowitz
-Overview</quote>
+<blockquote>following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.
+</blockquote>
+<p>A quote that drives me:༼ つ ◕_◕ ༽つ</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MimoHasPurpose/MimoHasPurpose/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MimoHasPurpose/MimoHasPurpose/output/github-snake.svg" />
