@@ -1,12 +1,8 @@
 <h1 align="center">Hello 👋, I'm Sanjay <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
-<style>
-p {
-  font-family: "Sofia", sans-serif;
-}
-</style>
-<p>hello</p>
+
+
+<p style="font-family: "Sofia", sans-serif">hello</p>
 
 
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
