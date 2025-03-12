@@ -9,7 +9,7 @@
 
 
 
-<italic><underline>quote that drives me:༼ つ ◕_◕ ༽つ</underline></italic>
+<p align="left">quote that drives me:༼ つ ◕_◕ ༽つ</p>
 
 </h5>
 
