@@ -3,7 +3,7 @@
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
 <blockquote>following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.
 </blockquote>
-<p>A quote that drives me:༼ つ ◕_◕ ༽つ</p>
+<italic>qote that drives me:༼ つ ◕_◕ ༽つ</italic>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MimoHasPurpose/MimoHasPurpose/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MimoHasPurpose/MimoHasPurpose/output/github-snake.svg" />
