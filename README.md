@@ -2,7 +2,7 @@
 
 
 
-<p style="font-family: "Sofia", sans-serif">hello</p>
+<p style="font-family: Monospace">hello</p>
 
 
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
