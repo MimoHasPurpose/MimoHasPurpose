@@ -65,4 +65,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MimoWithHope&theme=vue-dark&border_radius=6.1)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MimoHasPurpose&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
