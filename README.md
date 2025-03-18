@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sanjay ヽ(´ー｀)┌<p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
+<h1 align="center">Hello 👋, I'm Sanjay (=ʘᆽʘ=)∫<p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
 
 <h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
