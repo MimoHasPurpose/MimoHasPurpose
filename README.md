@@ -23,7 +23,7 @@
 
 
 
-<h3 align="center"><ins>My top 5 projects:🤓</ins></h3>
+<h3 align="center"><ins>My top 5 projects:(︶｡︶✽)</ins></h3>
 
 1. Web Dev with react [👆](https://github.com/MimoHasPurpose/Web-Dev-React-Continued)<br>
 2. Coding in CV [👆](https://github.com/MimoHasPurpose/codingINCV)<br>
