@@ -1,0 +1,23 @@
+name: Update Heart Count
+
+on:
+  page_build:
+  workflow_dispatch:
+
+jobs:
+  update-likes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update likes count
+        run: |
+          current=$(cat likes.txt)
+          new=$((current + 1))
+          echo $new > likes.txt
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add likes.txt
+          git commit -m "Increment heart count"
+          git push

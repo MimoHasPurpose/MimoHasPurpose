@@ -1,3 +1,10 @@
+
+# Hey, I'm mimohaspurpose! 👋
+
+❤️ Like my profile? Click below to add a heart!  
+
+[![Heart Count](https://img.shields.io/badge/dynamic/txt?label=Hearts&query=content&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmimohaspurpose%2Fprofile-likes%2Fmain%2Flikes.txt&color=pink&logo=heart)](https://github.com/mimohaspurpose/profile-likes)
+
 <h1 align="center">Hello 👋  (◕‿◕✿) <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
 
