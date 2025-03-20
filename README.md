@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  ![:shimmie2](https://count.getloli.com/@:shimmie2)
+  ![:booru-lisu](https://count.getloli.com/@:booru-lisu)
 </p>
 
 
