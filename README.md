@@ -9,7 +9,8 @@
 
 
 
-  ![:booru-lisu](https://count.getloli.com/@:booru-lisu)
+  ![:shimmie2](https://count.getloli.com/@shimmie2?name=shimmie2&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+  <p align="center">from march 20:2025</p>
 
 
 
