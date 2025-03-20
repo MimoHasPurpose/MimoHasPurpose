@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Hello 👋  (◕‿◕✿) <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
 
@@ -36,23 +37,28 @@
 
 <h3 align="center"><ins>My top 5 projects:(︶｡︶✽)</ins></h3>
 
-
-
+<div align="center">
+<p style="text-align: center;"> 
   
- 1. Web Dev with react [👆](https://github.com/MimoHasPurpose/Web-Dev-React-Continued)<br>    
+1.Web Dev with react [👆](https://github.com/MimoHasPurpose/Web-Dev-React-Continued)<br>
+ </p>
+<p style="text-align: center;">
 
+2.Coding in CV [👆](https://github.com/MimoHasPurpose/codingINCV)<br>
+</p>
+<p style="text-align: center;">
 
+3.NLP [👆](https://github.com/MimoHasPurpose/NaturalLangaugeProcessing-Internshala)<br>  
+</p>
+<p style="text-align: center;">
 
-  
-2. Coding in CV [👆](https://github.com/MimoHasPurpose/codingINCV)<br>
+4.Pytorch [👆](https://github.com/MimoHasPurpose/pytorch)
+</p>
+  <p style="text-align: center;">
 
-
-3. NLP [👆](https://github.com/MimoHasPurpose/NaturalLangaugeProcessing-Internshala)<br>
-
-4. Pytorch [👆](https://github.com/MimoHasPurpose/pytorch)
-
-
-5. ML End-to-End Projects[👆](https://github.com/aiAtYourService/MLProjects)
+5.ML End-to-End Projects[👆](https://github.com/aiAtYourService/MLProjects)    
+  </p>
+</div>
 
 <h1>
   
