@@ -6,7 +6,7 @@
 <h4 align="center">
 
 
-  following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold
+  following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold>
 
 
 <p align="left">quote that drives me:༼ つ ◕_◕ ༽つ</p>
