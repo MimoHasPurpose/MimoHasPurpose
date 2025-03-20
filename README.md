@@ -34,12 +34,14 @@
 
 <h3 align="center"><ins>My top 5 projects:(︶｡︶✽)</ins></h3>
 
+<p align="center">
+  
 1. Web Dev with react [👆](https://github.com/MimoHasPurpose/Web-Dev-React-Continued)<br>
 2. Coding in CV [👆](https://github.com/MimoHasPurpose/codingINCV)<br>
 3. NLP [👆](https://github.com/MimoHasPurpose/NaturalLangaugeProcessing-Internshala)<br>
 4. Pytorch [👆](https://github.com/MimoHasPurpose/pytorch)
 5. ML End-to-End Projects[👆](https://github.com/aiAtYourService/MLProjects)
-
+</p>
 
 
 
