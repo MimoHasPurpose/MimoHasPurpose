@@ -5,18 +5,20 @@
 
 <h4 align="center">
 
-  following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold>
-
-
-
-  ![:shimmie2](https://count.getloli.com/@shimmie2?name=shimmie2&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
-  <p align="center">from march 20:2025</p>
+  following your passion is self-centered. It focuses on what you take from the world—money, recognition, status. But real fulfillment comes from what you give. Find what you’re great at, use it to contribute, and make the world better. That’s what’s worth following.- <bold>Ben Horowitz </bold
 
 
 
 
 </h4>
 <p align="left">quote that drives me:༼ つ ◕_◕ ༽つ</p>
+
+>
+
+
+
+  ![:shimmie2](https://count.getloli.com/@shimmie2?name=shimmie2&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+  <p align="center">from march 20:2025</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MimoHasPurpose/MimoHasPurpose/output/github-snake-dark.svg" />
