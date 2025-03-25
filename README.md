@@ -83,7 +83,7 @@
 
 | 👯 I’m looking to collaborate on [My open-source project](https://github.com/MimoHasPurpose?tab=repositories) |
 
-| 📝 I regularly write articles on [blog]([https://github.com/MimoHasPurpose/notes-from-the-underground) |
+| 📝 I regularly write articles on [blog](https://github.com/MimoHasPurpose/notes-from-the-underground) |
 
 
 | 📫 How to reach me **sanjaygurjar741@gmail.com** |
