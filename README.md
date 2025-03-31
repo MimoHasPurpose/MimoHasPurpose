@@ -65,14 +65,6 @@
 <div align="center">
 
 
-| 🔭 I’m currently working on [Writing Numpy in java](https://github.com/MimoHasPurpose/JavaProjects) |
-
-| 👯 I’m looking to collaborate on [My open-source project](https://github.com/MimoHasPurpose?tab=repositories) |
-
-| 📝 I regularly write articles on [blog](https://github.com/MimoHasPurpose/notes-from-the-underground) |
-
-
-| 📫 How to reach me **sanjaygurjar741@gmail.com** |
 
 | 📄 Know about my experiences [**RESUME**](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0) |
 
