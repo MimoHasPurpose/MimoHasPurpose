@@ -66,7 +66,7 @@
 
 
 
-| 📄 Know about my experiences [**RESUME**](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0) |
+ | 📄 **<em> Know about my experiences| </em>** [**RESUME**](https://docs.google.com/document/d/1cQE5IAtot-5I48RaXzjkgQCx6We3E3JF_KXvgBWjdFY/edit?tab=t.0) 
 
 </div>
 
