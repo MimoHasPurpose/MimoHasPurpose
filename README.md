@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋  (◕‿◕✿) <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
 
-<h2 align="center"> I Love building ML Projects, hacking with my ubuntu, and read papers on weekends.</h2>
+<h2 align="center">Hacking on my Linux </h2>
 
 <h4 align="center">
 
@@ -50,14 +50,7 @@
 
 3.NLP [👆](https://github.com/MimoHasPurpose/NaturalLangaugeProcessing-Internshala)<br>  
 </p>
-<p style="text-align: center;">
 
-4.Pytorch [👆](https://github.com/MimoHasPurpose/pytorch)
-</p>
-  <p style="text-align: center;">
-
-5.ML End-to-End Projects[👆](https://github.com/aiAtYourService/MLProjects)    
-  </p>
 </div>
 
 <h1></h1>
