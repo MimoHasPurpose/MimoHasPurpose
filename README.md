@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋  (◕‿◕✿) <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimoHasPurpose&label=Profile%20views&color=0e75b6&style=flat" alt="MimoHasPurpose" align="right" /> </p></h1>
 
 
-<h2 align="center">Hacking on my Linux </h2>
+<h2 align="center">just hacking on my Linux </h2>
 
 <h4 align="center">
 
